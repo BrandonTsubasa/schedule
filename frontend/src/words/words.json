@@ -1,0 +1,118 @@
+{
+  "app":{
+    "title": "Schedule Management",
+    "login": "ログイン: ",
+    "signUp": "新規登録",
+    "signIn": "ログイン",
+    "user": "ユーザー編集",
+    "logout": "ログアウト",
+    "task": "Task",
+    "calendar": "Calendar"
+  },
+  "signup":{
+    "title": "新規登録",
+    "userName": "ユーザー名",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "passwordConfirm": "パスワード(確認用)",
+    "login": "ログイン",
+    "regist": "登録",
+    "message": "はこちらから"
+  },
+  "signIn":{
+    "title": "ログイン",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "login": "ログイン",
+    "signUp": "新規登録",
+    "guest": "ゲストログイン",
+    "message": "はこちらから"
+  },
+  "task":{
+    "taskName": "タスク名",
+    "priority": "緊急度",
+    "status": "状態",
+    "startDate": "開始日",
+    "startTime": "開始時間",
+    "endDate": "終了日",
+    "endTime": "終了時間",
+    "name": "名前",
+    "add": "追加",
+    "close": "閉じる",
+    "update": "更新する",
+    "iconPencil": "mdi-pencil",
+    "iconDelete": "mdi-delete",
+    "edit": "編集",
+    "delete": "削除",
+    "list": "Task一覧",
+    "search": "検索",
+    "finish": "完了",
+    "choices":[
+      {"cancel": "Cancel"},
+      {"ok": "OK"},
+      {"yes": "はい"},
+      {"no": "いいえ"}
+    ]
+  },
+  "calendar":{
+    "today": "今日",
+    "iconLeft": "mdi-chevron-left",
+    "iconRight": "mdi-chevron-right",
+    "task": "タスク名",
+    "startDate": "開始日",
+    "startTime": "開始時間",
+    "endDate": "終了日",
+    "endTime": "終了時間",
+    "close": "閉じる",
+    "edit": "編集",
+    "delete": "削除",
+    "update": "更新",
+    "choices":[
+      {"cancel": "Cancel"},
+      {"ok": "OK"},
+      {"yes": "はい"},
+      {"no": "いいえ"}
+    ]
+  },
+  "user":{
+    "title": "ログインユーザー編集",
+    "userName": "ユーザー名変更",
+    "mail": "メールアドレス変更",
+    "password": "パスワード変更",
+    "userList": "ユーザーリスト",
+    "search": "検索",
+    "delete": "削除",
+    "confirm": "本当に削除しますか？",
+    "close": "閉じる"
+  },
+  "userNameEdit":{
+    "name": "ユーザー名",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "back": "戻る",
+    "next": "次へ"
+  },
+  "userEmailEdit":{
+    "name": "ユーザー名",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "back": "戻る",
+    "next": "次へ"
+  },
+  "userPasswordEdit":{
+    "name": "ユーザー名",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "passwordConfirm": "パスワード（確認用）",
+    "back": "戻る",
+    "next": "次へ"
+  },
+  "confirm": {
+    "name": "ユーザー名",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "back": "戻る",
+    "update": "更新する"
+  }
+
+}
