@@ -783,6 +783,7 @@ export default {
           this.endDateEdit = null;
           this.endTimeEdit = null;
           this.dialogEdit = false;
+          this.selectedName = null;
           this.getTasks();
         })
         .catch(function (error) {
