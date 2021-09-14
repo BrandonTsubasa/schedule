@@ -55,7 +55,29 @@ db.sqlite3<br>
 
 # 使用方法、機能説明　　
 
-ゲストログインを行う場合、新規登録せず、ログイン画面の「ゲストログイン」ボタンを押下してください。
+<img width="1231" alt="GitHub_TOP" src="https://user-images.githubusercontent.com/59300064/133222669-9a2f6586-a850-4582-8000-5ba41b7ee53a.png">
+①GitHubのページ（https://github.com/BrandonTsubasa/schedule）にて、Codeボタンを押下してください。<br>
+②URLをコピーしてください。<br>
+
+<img width="1174" alt="terminal_frontend" src="https://user-images.githubusercontent.com/59300064/133226118-b146f9be-dedc-4894-90e9-91891b225666.png">
+①cloneしたいフォルダを作成、移動し、下記のコマンドを入力してください。<br>
+git clone https://github.com/BrandonTsubasa/schedule.git<br>
+②frontendディレクトリまで移動してください。<br>
+③下記のコマンドを実行してください。<br>
+npm install<br>
+④画像には記載できていないですが、npm installが完了したら、下記のコマンドを実行してください。<br>
+npm run serve<br>
+
+<img width="1174" alt="terminal_backend" src="https://user-images.githubusercontent.com/59300064/133227082-75a7f1cf-9cf5-4890-ba2a-86643c16a5b3.png">
+①別ターミナル、もしくはCMDを起動し、backendディレクトリに移動してください。<br>
+②下記のコマンドを実行してください。<br>
+python manage.py runserver<br>
+
+\*admin ユーザーで管理画面にログインする場合、メールアドレス、パスワードは以下に設定しております。<br>
+メールアドレス：admin@example.com<br>
+パスワード：Admin135<br>
+
+\*ゲストログインを行う場合、新規登録せず、ログイン画面の「ゲストログイン」ボタンを押下してください。<br>
 
 ## ログイン、または新規登録
 
@@ -68,6 +90,9 @@ db.sqlite3<br>
 <img width="1440" alt="ログイン画面" src="https://user-images.githubusercontent.com/59300064/132984817-696393ce-46dc-48c1-a902-8affe5f4a79f.png">
 メールアドレス、パスワードを入力後、問題なければログイン成功。<br>
 ゲストログインでも可。<br>
+\*admin ユーザーでログインする場合、メールアドレス、パスワードは以下に設定しております。<br>
+メールアドレス：admin@example.com
+パスワード：Admin135
 
 ## タスク発行、一覧画面
 
