@@ -56,7 +56,7 @@ db.sqlite3<br>
 # 使用方法、機能説明　　
 
 <img width="1231" alt="GitHub_TOP" src="https://user-images.githubusercontent.com/59300064/133222669-9a2f6586-a850-4582-8000-5ba41b7ee53a.png">
-①GitHubのページ（https://github.com/BrandonTsubasa/schedule）にて、Codeボタンを押下してください。<br>
+①上記の画像のGitHubのページにて、Codeボタンを押下してください。<br>
 ②URLをコピーしてください。<br>
 
 <img width="1174" alt="terminal_frontend" src="https://user-images.githubusercontent.com/59300064/133226118-b146f9be-dedc-4894-90e9-91891b225666.png">
